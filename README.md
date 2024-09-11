@@ -3,7 +3,6 @@
 In this assignment, you are required to create a very simple Python script that you'll need to submit, having a sequence of automatic tests (concerning mainly style and libraries) pass.
 
 ## Your code
-
 The code is a very simple implementation of a numpy array.
 Write it in a file `main.py`. In this script...
 
